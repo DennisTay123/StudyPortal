@@ -82,5 +82,5 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "homepage": "https://dennistay123.github.io/StudyPortal/",
-    "index": "public/index.html"
+    "index": "public/index.php"
 }
